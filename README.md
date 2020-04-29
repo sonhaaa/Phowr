@@ -3,6 +3,8 @@
 Hungry? Phowr Now!!
 (Phowr is "Phở" in Telex typing)
 
+Download apk file and run at [Phowr](https://phowrvietnam.github.io/)
+
 ## Getting Started
 
 I'm using React Native for window to build Phowr. So you need React Native environment to run Phowr's code.
