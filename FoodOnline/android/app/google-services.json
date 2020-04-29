@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545981754749",
+    "firebase_url": "https://foodonline-bfe22.firebaseio.com",
+    "project_id": "foodonline-bfe22",
+    "storage_bucket": "foodonline-bfe22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545981754749:android:bd62bb0de829dfa04b7014",
+        "android_client_info": {
+          "package_name": "com.foodonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545981754749-23bvb91d67cqbotb8u68j2eq1ard9ls7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodonline",
+            "certificate_hash": "522483cef23f054f2129674201329eac9e981e33"
+          }
+        },
+        {
+          "client_id": "545981754749-f2vf1e5akqu905f49mi71l6n1bm63qrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY9Gj_Js4qydEoiE89D9Ht3gjIU2nT_J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545981754749-f2vf1e5akqu905f49mi71l6n1bm63qrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
