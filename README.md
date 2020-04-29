@@ -9,11 +9,11 @@ I'm using React Native for window to build Phowr. So you need React Native envir
 
 ### Set-up React Native
 
-Follow [this guide](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65) to set up React Native development
+Follow [this guide](https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65) to set up React Native development.
 
 ### Download Phowr's code
 
-Clone from github repo
+Clone from github repo.
 
 ```
 git clone https://github.com/hanzhere/Phowr
@@ -30,8 +30,9 @@ Phowr\FoodOnline\android
 
 ### Install dependencies
 
-Open FoodOnline folder in your IDE
-Run
+Open FoodOnline folder in your IDE.
+
+Run:
 
 ```
 npm install
@@ -40,7 +41,8 @@ npm install
 ### Run code
 
 Connect to your emulator device or real device.
-Run
+
+Run:
 
 ```
 react-native run-android
