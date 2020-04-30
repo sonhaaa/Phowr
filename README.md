@@ -3,6 +3,8 @@
 Hungry? Phowr Now!!
 (Phowr is "Phở" in Telex typing)
 
+|Email: nguyensonha.hanz@gmail.com
+
 Download apk file and run at [Phowr](https://phowrvietnam.github.io/)
 
 ## Getting Started
